@@ -1,4 +1,5 @@
 # MARKETING INSIGHTS
+   ![image.alt](https://github.com/Somagachukwu/MARKETING-INSIGHT-REPORT/blob/main/Marketing%20Report/Marketing.png)
 # INTRODUCTION
 ### Have you ever wondered how many people click on a website, and those who don’t just click but go ahead to explore more of the website?
 ### This Website Analysis Report comprehensively evaluates a website, assessing the number of times users come across the website and also make use of it. The purpose of this analysis is to identify strengths, weaknesses, and areas for improvement to enhance the site’s functionality and visibility.
@@ -35,6 +36,7 @@
 
 ## DASHBOARD CREATION
 ### After all cleaning and formatting were done, the next step was to create a dashboard that summarizes all important insights of the dataset.
+![image.alt](https://github.com/Somagachukwu/MARKETING-INSIGHT-REPORT/blob/main/Marketing%20Report/Marketing%20Report.png)
 
 ## OBSERVATION AND INSIGHTS
 ### The analysis showcased a few things that need to be addressed to increase page views on the website.
